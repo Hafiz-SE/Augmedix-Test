@@ -245,7 +245,7 @@ export default {
   }
 
   .footer{
-    padding-top:120px;
+    padding-top:90px;
     padding-left:25px;
     width: 150px;
   }
