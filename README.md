@@ -1,6 +1,6 @@
-# augmedix
+# Augmedix-SPAF
 
-> A simple single-page application for augmedix.
+> A simple single-page application for Augmedix.
 
 ## Build Setup
 
