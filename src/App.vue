@@ -251,7 +251,7 @@ export default {
   }
 
   .navFooter{
-    padding-top:390px;
+    padding-top:350px;
     padding-left:10px;
     width: 135px;
   }
